@@ -1,4 +1,4 @@
-[[Rules]] Page#386
+[[General]] Page#386
 
 Loyalty
 Measures how close they are to a character

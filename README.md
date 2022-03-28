@@ -8,4 +8,4 @@ I like the idea of keeping the file tree relatively flat, and letting article li
 
 ### Linking
 
-For each File, at the top there should be a link to the parent Folder's index file (as mentioned above) to allow bi-directional navigation. I don't think Files need to be fully atomic, but if they have several distinct components, each should use a header tag, so that section, action, attribute, etc can be linked to. See [Attribute](https://github.com/orgalvin/Shadowrun-Rules/blob/master/Attribute.md)
+For each File, at the top there should be a link to the parent Folder's index file (as mentioned above) to allow bi-directional navigation. I don't think Files need to be fully atomic, but if they have several distinct components, each should use a header tag, so that section, action, attribute, etc can be linked to. See [Attribute](https://github.com/orgalvin/Shadowrun-Rules/blob/master/Attribute.md).

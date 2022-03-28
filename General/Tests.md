@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 Success Tests
 `(Skill used in test) + (Attribute used in test)[Applicable limit](threshold) Test`

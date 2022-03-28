@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 Defaulting
 Characters may attempt some skill-based tests even if they don’t have any ranks in the skill. This is known as defaulting. For example, even if you’re not trained in the art of running, you can still attempt a sprint to see just how much ground you can cover. In these instances, your dice pool for the test equals your ranking in the linked attribute – 1. So if Sorsha doesn’t have the Run- ning skill but wants to give a sprint a try, she’ll check her Strength, which is 6. That means she rolls 6 – 1 dice, or 5, and hopes for the best.

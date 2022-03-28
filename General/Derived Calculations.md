@@ -1,3 +1,5 @@
+[[General]]
+
 **Initiatives**
 Mechanic | Formula | Augmentation Bonuses
 ------------ | ------------ | -----------

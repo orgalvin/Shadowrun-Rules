@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 General
 Can only spend 1 point of Edge per test or action, and only on the runner's own actions

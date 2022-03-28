@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 INITIATIVE AND CONDITION MONITORS
 As is the case with limits (p. 46), Initiative and the Condition Monitors are character statistics derived from attributes. They should be calculated during the character creation process (p. 62).

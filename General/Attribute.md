@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 #### **PHYSICAL ATTRIBUTES**
 

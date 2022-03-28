@@ -1,4 +1,4 @@
-[[Rules]]
+[[General]]
 
 First aid
 - requires medkit
