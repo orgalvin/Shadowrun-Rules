@@ -18,7 +18,7 @@
 - Secondary effect on meat is -1 dice pool penalty on all actions and Defense tests, but not Damage Resistance Tests, for 1 combat turn and an immediate [[Initiative]] reduction of 5. These effects do not accumulate with multiple attacks but the length of the penalty is increased by 1 per successful hit. 
 	- If no initiative score is left, the reduction is applied to the next combat turn.
 - Electronic Equipment and [[Drones]] suffer damage as Physical instead of Stun. Tehy resist damage as usual and suffer the secondary effect if they take any damage.
-	- The secondary effect for electronics and drones is secondary [[The Will of the People/Rules/Combat/Matrix]] damage equal to half of the Physical damage rounded down
+	- The secondary effect for electronics and drones is secondary [[Matrix Actions]] damage equal to half of the Physical damage rounded down
 	- Vehicles suffer no secondary effects unless through a [[Called Shot]]
 
 **Fire Damage**
