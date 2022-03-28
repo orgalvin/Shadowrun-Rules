@@ -1,5 +1,12 @@
 [[Rules]]
 
+[[Matrix Attributes]]
+[[Matrix Skills]]
+[[Matrix Damage]]
+[[Population of the Matrix]]
+[[Augmented World]]
+[[User Modes]]
+
  Below you, stretching off in every direction, three-di- mensional icons of real-world devices light up the land- scape like a galaxy of stars in a perfect night sky. The devices that appear to be closest to you are the ones nearest your meat body. Your own icon—your virtual self— is usually the brightest and clearest of the icons. The points of light on the distant horizon, the devic- es that are the farthest from your presence in the real world, flicker and sputter with the lag of data traveling from the other side of the globe.
 
 Hovering above you, massive hosts—tremendous data collections guarded by spiders and IC—float like corporate gods, attempting to see everything and be surprised by nothing. Their custom geometries form a virtual geography that is unconnected to the meat- bound map below. The larger ones, the size of cities, be- long to the Big Ten megacorporations and are dangerous to enter if you’re not invited. Other, smaller hosts cluster in the neural sky, offering social connections, presenting consumer products, or promising darker pleasures.
