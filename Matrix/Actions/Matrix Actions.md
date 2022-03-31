@@ -1,11 +1,12 @@
 [[Matrix]]
 
-[[Matrix Combat Actions]]
 [[Matrix Perception]]
 [[Noise]]
 [[Non-Hacker actions]]
 
 Matrix actions are special because certain modifiers apply to them, such as [[Noise]] and [[Overwatch Score]]
+
+![[Matrix Actions.png]]
 
 ##### BRUTE FORCE (COMPLEX ACTION)
 Marks Required: none 

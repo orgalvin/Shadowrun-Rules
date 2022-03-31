@@ -1,5 +1,9 @@
 [[Rules]]
 
+Folders:
+[[Matrix Actions]]
+
+Files:
 [[Devices and Personas]]
 [[Matrix Attributes]]
 [[Matrix Skills]]
