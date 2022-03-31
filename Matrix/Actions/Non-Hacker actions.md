@@ -1,4 +1,4 @@
-[[The Will of the People/Rules/Matrix/Matrix]] [[Actions]]
+[[Matrix Actions]]
 
  Grid dictated by lifestyle unless you buy it separately
 		- low and lower - public grid

@@ -1,8 +1,10 @@
 [[Rules]]
 
+[[Devices and Personas]]
 [[Matrix Attributes]]
 [[Matrix Skills]]
 [[Matrix Damage]]
+[[Overwatch Score]]
 [[Population of the Matrix]]
 [[Augmented World]]
 [[User Modes]]

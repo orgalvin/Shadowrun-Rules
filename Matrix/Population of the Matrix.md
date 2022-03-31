@@ -7,7 +7,7 @@ Every icon is one of 6 things:
 - a file - can look like a scroll, book, data pad, stone tablets, etc, whatever user flavors it to be
 - a host
 	- internally can be whatever the owner desires, indiana jones temple, lava world, beautiful forest, etc
-- a mark - matrix authentication recognition key. Can look like anything identifying (tattoo, label, bracelet, etc.). Normally invisible except to those who placed them
+- a mark - matrix authentication recognition key. Can look like anything identifying (tattoo, label, bracelet, etc.). Normally invisible except to those who placed them unless perceived by a [[Matrix Perception]] test
 	- For example, let’s say you’re using the icon of a neon green octopus. Your marks might look like neon green sucker marks. If you had a cowboy icon, your marks might look like cattle brands. If your icon were a vintage movie star, your marks might look like lipstick kisses.
 
 Grids

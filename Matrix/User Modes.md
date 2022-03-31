@@ -12,4 +12,4 @@
 ##### Hot-Sim VR
 - Initiative = [[Matrix Attributes#Data Processing]] + [[Attribute#INTUITION INT]] + 4d6 (Max 5d6)
 - Physical biofeedback damage
-- +2 to all [[Matrix Actions]]
+- +2 to all [[Matrix Combat Actions]]
