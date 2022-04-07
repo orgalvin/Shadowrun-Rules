@@ -8,6 +8,8 @@ Matrix actions are special because certain modifiers apply to them, such as [[No
 
 ![[Matrix Actions.png]]
 
+![[Matrix Actions Cont.png]]
+
 ##### BRUTE FORCE (COMPLEX ACTION)
 Marks Required: none 
 Test: Cybercombat + Logic [Attack] v. Willpower + Firewall 

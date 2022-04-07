@@ -4,14 +4,19 @@ Folders:
 [[Matrix Actions]]
 
 Files:
+
+[[Augmented World]]
 [[Devices and Personas]]
+[[Hosts]]
+[[MARK]]
 [[Matrix Attributes]]
-[[Matrix Skills]]
 [[Matrix Damage]]
+[[Matrix Skills]]
 [[Overwatch Score]]
 [[Population of the Matrix]]
-[[Augmented World]]
+[[Programs]]
 [[User Modes]]
+
 
  Below you, stretching off in every direction, three-di- mensional icons of real-world devices light up the land- scape like a galaxy of stars in a perfect night sky. The devices that appear to be closest to you are the ones nearest your meat body. Your own icon—your virtual self— is usually the brightest and clearest of the icons. The points of light on the distant horizon, the devic- es that are the farthest from your presence in the real world, flicker and sputter with the lag of data traveling from the other side of the globe.
 
