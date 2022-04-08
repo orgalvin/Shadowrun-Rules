@@ -47,7 +47,7 @@ Defuse: This program creates predictive barriers be- tween you and a Data Bomb, 
 
 Demolition: Demolition comes with the latest and most effective Data Bomb-coding techniques, adding 1 to the rating of any Data Bomb you set while this is running.
 
-Exploit: This program analyzes and scans a target for weaknesses in its Firewall. You receive a +2 bonus to your Sleaze attribute when attempting a Hack on the Fly action.
+Exploit: This program analyzes and scans a target for weaknesses in its Firewall. You receive a +2 bonus to your [[Matrix Attributes#Sleaze|Sleaze]] attribute when attempting a Hack on the Fly action.
 
 Fork: You can perform a single Matrix action on two targets with this program. You make a single test, with modifiers from each target both counting toward your dice pool. Each of the targets defend with their own dice pools. Determine the result of the actions separately against each target.
 
@@ -63,7 +63,7 @@ Shell: This program uses a set of filtering algorithms to give you a +1 dice poo
 
 Sneak: This utility bounces your Matrix traffic through unnecessary routes, giving you a +2 dice pool modifier to defend against Trace User actions. Addi- tionally, if a demiGOD converges on you while this pro- gram is running, they don’t get your physical location, although you’re still hit with all the other bad stuff they throw at you.
 
-Stealth: This clever program gives you a +1 bonus to your Sleaze attribute.
+Stealth: This clever program gives you a +1 bonus to your [[Matrix Attributes#Sleaze|Sleaze]] attribute.
 
 Track: The Track program keeps an eye on your tar- gets for you, making it easier to find their meat world equivalents. Add 2 to your Data Processing attribute when making Trace User tests with Track running. Al- ternately, if the target is running Sneak, Track negates the +2 dice pool bonus from that program. Note that the program delivers one of the listed benefits, not both.
 
