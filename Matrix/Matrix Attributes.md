@@ -5,7 +5,7 @@ our Attack rating reflects the programs and utilities you have running on your d
 - if you fail an attack action you take damage equal to the net hits of the defense test
 
 ##### Sleaze
-The applications making up your Sleaze attribute mask your Matrix presence, probe the defenses of targets, and subtly alter a target system’s code. Sleaze software is delicate, and one mistake will spill the soybeans on you to your target. Sleaze actions are good for intrusions in which you have plenty of time and in dealing with Matrix problems in a slow but quiet way.
+The applications making up your [[Matrix Attributes#Sleaze|Sleaze]] attribute mask your Matrix presence, probe the defenses of targets, and subtly alter a target system’s code. [[Matrix Attributes#Sleaze|Sleaze]] software is delicate, and one mistake will spill the soybeans on you to your target. [[Matrix Attributes#Sleaze|Sleaze]] actions are good for intrusions in which you have plenty of time and in dealing with Matrix problems in a slow but quiet way.
 - If you fail a sleaze action, the target's firewall software places a mark on you (up to 3) and launches IC
 
 ##### Data Processing

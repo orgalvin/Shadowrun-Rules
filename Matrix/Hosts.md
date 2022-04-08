@@ -86,10 +86,10 @@ net hit and +2 DV per mark) on the target with each successful
 attack.
 
 ##### MARKER
-Attack: Host Rating x 2 [Attack] v. Willpower + Sleaze
+Attack: Host Rating x 2 [Attack] v. Willpower + [[Matrix Attributes#Sleaze|Sleaze]]
 Marker IC installs tiny worm programs that mess with
 your datastreams. When it gets 1 or more net hits on its
-attack, it reduces your Sleaze by 1. If your Sleaze has
+attack, it reduces your [[Matrix Attributes#Sleaze|Sleaze]] by 1. If your [[Matrix Attributes#Sleaze|Sleaze]] has
 been reduced to 0 already, it causes 1 DV Matrix damage
 per net hit on the attack. The reduction is cumulative
 and lasts until you reboot the targeted device.
@@ -136,7 +136,7 @@ already link-locked, it puts a mark on you, up to a maximum
 of three marks.
 
 ##### TRACK
-Attack: Host Rating x 2 [Attack] v. Willpower + Sleaze
+Attack: Host Rating x 2 [Attack] v. Willpower + [[Matrix Attributes#Sleaze|Sleaze]]
 Track IC follows the datastreams between your icon
 and your deck. If this IC hits and the host has two marks
 or more on you, the host (and its owners) discover your
