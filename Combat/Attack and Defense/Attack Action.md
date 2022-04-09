@@ -4,7 +4,7 @@ Step 1: Declare
 - attacker declares an attack as part of the action phase
 - defender declares what method is being used to defend. 
 	- A standard defence (Reaction + Intuition [[Attribute]]s) is free.
-	- For a price the defender can instead choose to Dodge, Parry, Block, or go on Full Defense
+	- For a price the defender can instead choose to [[Interrupt Actions#DODGE|Dodge]], [[Interrupt Actions#PARRY|Parry]], [[Interrupt Actions#BLOCK|Block]], or go on [[Interrupt Actions#FULL DEFENSE|Full Defense]]
 
 Step 2: Attack
 - Attacker rolls Combat Skill + Attribute +/- modifiers [Limit]
