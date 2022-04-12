@@ -5,3 +5,5 @@ Topics:
 [[General]]
 [[Matrix]]
 [[Vehicles]]
+[[Riggers]]
+[[Magic]]

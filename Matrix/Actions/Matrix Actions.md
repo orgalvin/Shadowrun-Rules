@@ -1,8 +1,10 @@
 [[Matrix]]
 
 [[Matrix Perception]]
-[[Noise]]
 [[Non-Hacker actions]]
+```toc
+
+```
 
 Matrix actions are special because certain modifiers apply to them, such as [[Noise]] and [[Overwatch Score]]
 
@@ -33,7 +35,7 @@ You perform an action through a device you control (or at least control sufficie
 ##### CRACK FILE (COMPLEX ACTION) 
 Marks Required: 1 
 Test: Hacking + Logic [Attack] v. Protection Rating x 2 
-You remove the protection from a file, making it readable. This action doesn’t need to be performed on a file that isn’t protected, of course. CRASH PROGRAM (COMPLEX ACTION) Marks Required: 1 Test: Cybercombat + Logic [Attack] v. Intuition + Firewall You overload part of your target’s memory and scramble one of its running programs. You need to specify which program you’re trying to crash; you can learn what your target is running either with a Matrix Perception action or by observing the program in action. If you succeed, the program is scrambled: it ends and cannot be restarted until the device it was running on is rebooted.
+You remove the protection from a file, making it readable. This action doesn’t need to be performed on a file that isn’t protected, of course. 
 
 ##### CRASH PROGRAM (COMPLEX ACTION) 
 Marks Required: 1 

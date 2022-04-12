@@ -1,4 +1,6 @@
 [[General]]
+```toc
+```
 
 Skill ratings levels are between 1 and 12 
 
@@ -22,7 +24,7 @@ Skills are grouped into Active, Knowledge, and Language skills
 
 ![[Knowledge Skills.png]]
 
-**Combat Active Skills**
+#### Combat Active Skills
 ##### ARCHERY
 Archery is used to fire string-loaded projectile weapons.
 An archer is familiar with many different styles of
@@ -123,7 +125,7 @@ Skill Group: Close Combat
 Specializations: Blocking, Cyber Implants, Subduing
 Combat, or by specific Martial Art
 
-**Physical Active Skills**
+#### Physical Active Skills
 ##### DISGUISE (INTUITION)
 Disguise covers non-magical forms of masking your
 identity, including makeup and enhancement. See Using
@@ -244,8 +246,7 @@ Skill Group: Outdoors
 Specializations: Desert, Forest, Jungle, Mountain,
 Polar, Urban, another terrain type
 
-**Social Skills**
-
+#### Social Skills
 ##### CON (CHARISMA)
 Con governs the ability to manipulate or fool an NPC
 during a social encounter. This skill covers a range of
@@ -336,8 +337,7 @@ Skill Group: Acting
 Specializations: By performance art (Presentation,
 Acting, Comedy, specific Musical Instrument, etc.)
 
-**Magical Skills**
-
+#### Magical Skills
 ##### ALCHEMY (MAGIC)
 Alchemy is used to create substances that store spells.
 Alchemy is most commonly used to brew potions, distill
@@ -447,8 +447,7 @@ Skill Group: Conjuring
 Specializations: By spirit type (Spirits of Earth,
 Spirits of Man, etc.)
 
-**Technical Skills**
-
+#### Technical Skills
 ##### AERONAUTICS MECHANIC
 (LOGIC)
 Aeronautics mechanics have the ability to repair a variety
@@ -694,8 +693,7 @@ Skill Group: Electronics
 Specializations: Data Bombs or by complex form
 (Editor, Resonance Spike, Tattletale, etc.)
 
-**Vehicle Skills**
-
+#### Vehicle Skills
 ##### GUNNERY (AGILITY)
 Gunnery is used when firing any vehicle-mounted
 weapon, regardless of how or where the weapon is
@@ -758,8 +756,7 @@ Skill Group: None
 Specializations: Hydrofoil, Motorboat, Remote
 Operation, Sail, Ship, Submarine
 
-**Knowledge Skills**
-
+#### Knowledge Skills
 ##### STREET KNOWLEDGE
 Street Knowledge is linked to Intuition. This type of
 Knowledge skill is about knowing the movers and shakers

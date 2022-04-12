@@ -4,7 +4,6 @@ Folders:
 [[Matrix Actions]]
 
 Files:
-
 [[Augmented World]]
 [[Devices and Personas]]
 [[Hosts]]
