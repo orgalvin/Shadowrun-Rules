@@ -84,7 +84,17 @@ jump directly to another device on your PAN.
 If the vehicle, drone, or device you’re jumped into
 is destroyed while you’re jumped in, you suffer dumpshock
 (6 DV biofeedback damage, p. 229).
+A character may use a Free Action to activate, deactivate, or switch the mode on any device that he is linked to by a direct neural interface through either a wired or wireless link. 
 
+This includes
+- activating cyberware
+- changing a smartgun’s firing mode
+- changing a smartlinked shotgun’s choke
+- deactivating thermographic vision
+- switching a commlink to hidden mode
+- turning a device’s wireless functionality off,
+
+Note that it takes longer to interact with some devices, as noted in individual gear descriptions.
 ##### RIGGERS AND DECKERS
 As you’ve probably already guessed from all this talk
 about Matrix damage, the hacker is the rigger’s natural

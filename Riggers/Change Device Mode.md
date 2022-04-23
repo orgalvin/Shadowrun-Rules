@@ -10,4 +10,4 @@ This includes
 - switching a commlink to hidden mode
 - turning a device’s wireless functionality off,
 
-Note that it takes longer to interact with some devices, as noted in individual gear descriptions.
+Note that it takes longer to interact with some devices, as noted in individual gear descriptions.
