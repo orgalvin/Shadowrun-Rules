@@ -1,6 +1,9 @@
 # Rigger Skills
 Rigging skills are Vehicle Active skills, including all skills that begin with the word 'Pilot', plus the Gunnery Skill
 
+Pilot skills: Skill Rating + REA
+Gunnery: Skill Rating + AGI
+
 # Control Methods
 (See [[Jumping In]] for prerequisites)
 

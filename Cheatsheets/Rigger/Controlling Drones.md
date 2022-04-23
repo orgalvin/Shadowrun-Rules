@@ -12,7 +12,7 @@ Drones are devices, so they show up in the Matrix:
 - When making a [[Defense Test]], drones use the best rating between itself / master for each rating in the test
 - Marks on a slaved device in a [[PAN]] also create a mark on the master
 - You can give a command to one, all, or some of your slaved drones with the same [[Simple Action]]
-- Commands issued from your RCC aracted on during the drone’s Action Phase, not yours
+- Commands issued from your RCC are acted on during the drone’s Action Phase, not yours
 
 # Electronic Warfare
 ## Dealing with Noise

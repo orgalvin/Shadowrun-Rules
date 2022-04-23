@@ -19,8 +19,8 @@ You also gain the following effects:
 - Treat  [[Vehicle Actions]] the same way you'd treat [[Matrix Actions]]
 - Any bonus to [[Matrix Actions]] also applies to [[Vehicle Actions]]
 	- Vehicle Control Tests
-	-  Gunnery Tests
-	-  Sensor Tests
+	- Gunnery Tests
+	- Sensor Tests
 
 ## Cold / Hot Sim
 You choose between [[Cold-Sim]] and [[Hot-Sim]]
