@@ -16,6 +16,9 @@ Short spindly Japanese man hunched forward. Drinking wine. Hyper aware of the ba
 **Jeremy**
 Old balding man. Keeps a work bag with him. Work coveralls. Leather jacket. Medium build and a little portly. Has a van called the Hangerback. Loves bad EDM music.
 
+# Seattle
+## Mayor Finch
+
 # Redmond
 ## Crash
 Crash has a handlebar mustache and a cowboy hat.
