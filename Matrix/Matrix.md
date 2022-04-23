@@ -70,7 +70,7 @@ A tablet-sized computer used to hack the Matrix; it is restricted or illegal in 
 A subsection of the Grid Overwatch Division that oversees a single grid, run by the grid’s owner.
 
 #### device
-A piece of gear that performs functions integral to a network.
+A piece of gear that performs functions integral to a network. See also [[Devices and Personas#Devices]]
 
 #### DNI
 AKA: direct neural interface. A connection between the brain’s neural impulses and a computer system that allows a user to mentally interact with that system.
@@ -148,7 +148,7 @@ The worldwide telecommunications network and everyone and everything connected t
 Unwanted data or wireless signals that make using the Matrix slower or more difficult. (slang) Unwelcome information.
 
 #### persona
-A user, agent, or other autonomous or semi-autonomous icon in the Matrix.
+A user, agent, or other autonomous or semi-autonomous icon in the Matrix. See also [[Devices and Personas#Personas]]
 
 #### PAN
 AKA personal area network. The set of devices slaved to a single commlink or cyberdeck.

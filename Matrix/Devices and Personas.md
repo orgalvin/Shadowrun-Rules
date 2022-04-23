@@ -5,6 +5,8 @@ Devices have a device rating, and Data Processing and Firewall (typically equal 
 
 ![[Device Ratings.png]]
 
+By default, a device’s icon looks like the object it represents, in miniature if the real thing is larger than a person. It has controls of some kind, often the same controls it has in meat space, but not necessarily.
+
 ##### Personas
 Personas are the “people” of the Matrix. Some personas are actually people, users and hackers who are connected to and using the Matrix. When a person uses a device to connect to the Matrix, the device’s icon is subsumed by the persona’s icon, so it’s basically gone from the Matrix until the persona jacks out. You can only run one persona at a time; switching requires you to reboot both the device you’re currently on and the device to which you want to shift your persona.
 
