@@ -23,126 +23,192 @@ Hovering above you, massive hosts—tremendous data collections guarded by spide
 
 Between it all are the representations of people, pro- cesses, programs, and data that zip from icon to icon and host to host, leaving datatrails of light that fade back into the dim hum of information. The Matrix moves at the speed of light and thought.
 
-**Jargon**
- agent: A semi-autonomous program that is capable of taking independent action in the Matrix.
+# Jargon
+ #### agent
+ A semi-autonomous program that is capable of taking independent action in the Matrix.
 
-archive: An area of a host that stores files securely away from all users, legitimate or otherwise.
+#### archive
+An area of a host that stores files securely away from all users, legitimate or otherwise.
 
-artificial intelligence (AI): Self–aware and self–sustaining intelligent programs that evolved within the Matrix.
+#### AI
+AKA: artificial intelligence. Self–aware and self–sustaining intelligent programs that evolved within the Matrix.
 
-augmented reality (AR): Information added to or overlaid upon a user’s normal sensory perceptions in the form of visual data, graphics, sounds, haptics, smell, and/or limited simsense.
+#### AR
+AKA: augmented reality. Information added to or overlaid upon a user’s normal sensory perceptions in the form of visual data, graphics, sounds, haptics, smell, and/or limited simsense.
 
-augmented reality object (ARO): Virtual representations (usually visual graphics, but other sensory data can be included, typically sound) that are connected to a physical object or location in the physical world and viewable through augmented reality. The abbreviation, ARO, is pronounced “arrow.”
+#### ARO
+AKA: augmented reality object. Virtual representations (usually visual graphics, but other sensory data can be included, typically sound) that are connected to a physical object or location in the physical world and viewable through augmented reality. The abbreviation, ARO, is pronounced “arrow.”
 
-avatar: The icon of a persona.  
-better–than–life (BTL, beetle): Hyper–real levels of simsense that are addictive and potentially dangerous.
+####  avatar
+The icon of a persona.  
 
-brick: To destroy a device by Matrix damage; also, a device destroyed in that fashion.
+#### BTL 
+AKA: better–than–life, beetle. Hyper–real levels of simsense that are addictive and potentially dangerous.
 
-cold-sim: Standard simsense that operates at legal, safe levels. Used by most people to access virtual reality.
+#### brick
+To destroy a device by Matrix damage; also, a device destroyed in that fashion.
 
-commcode: Combination email address, phone number, and IM name that identifies an individual for communications; if people want to get a hold of you, this is what they need.
+#### cold-sim
+Standard simsense that operates at legal, safe levels. Used by most people to access virtual reality.
 
-commlink (‘link): The handheld or worn personal computer used by nearly everyone to access wireless services.
+#### commcode
+Combination email address, phone number, and IM name that identifies an individual for communications; if people want to get a hold of you, this is what they need.
 
-complex form: Mental algorithms that technomancers use to manipulate the Matrix—their equivalent of programs.
+#### commlink
+AKA: link. The handheld or worn personal computer used by nearly everyone to access wireless services.
 
-control rig: An implanted augmentation that allows a rigger to “jump” into a vehicle, drone, or other device, giving him or her superior control and performance.
+#### complex form
+Mental algorithms that technomancers use to manipulate the Matrix—their equivalent of programs.
 
-deck: A tablet-sized computer used to hack the Matrix; it is restricted or illegal in most of the civilized world.
+#### control rig
+An implanted augmentation that allows a rigger to “jump” into a vehicle, drone, or other device, giving him or her superior control and performance.
 
-demiGOD: A subsection of the Grid Overwatch Division that oversees a single grid, run by the grid’s owner.
+#### deck
+A tablet-sized computer used to hack the Matrix; it is restricted or illegal in most of the civilized world.
 
-device: A piece of gear that performs functions integral to a network.
+#### demiGOD
+A subsection of the Grid Overwatch Division that oversees a single grid, run by the grid’s owner.
 
-direct neural interface (DNI): A connection between the brain’s neural impulses and a computer system that allows a user to mentally interact with that system.
+#### device
+A piece of gear that performs functions integral to a network.
 
-drone: An unmanned vehicle that can be controlled via direct wireless link or through the Matrix.
+#### DNI
+AKA: direct neural interface. A connection between the brain’s neural impulses and a computer system that allows a user to mentally interact with that system.
 
-echo: An enhanced ability a technomancer can learn after undergoing submersion.
+#### drone
+An unmanned vehicle that can be controlled via direct wireless link or through the Matrix.
 
-fading: Mental drain technomancers sometimes experience when using their abilities.
+#### echo
+An enhanced ability a technomancer can learn after undergoing submersion.
 
-file: A program or set of data that is collected as a single package; this runs the gamut from annual reports and kitten videos to autosofts and Attack programs.
+#### fading
+Mental drain technomancers sometimes experience when using their abilities.
 
-firewall: A program that guards a node from intrusion. This is the first line of defense of a device or host to fend off unwanted Matrix interference.
+#### file
+A program or set of data that is collected as a single package; this runs the gamut from annual reports and kitten videos to autosofts and Attack programs.
 
-geo-tagging: Assigning AROs to a specific physical location, often using RFID tags.
+#### firewall
+A program that guards a node from intrusion. This is the first line of defense of a device or host to fend off unwanted Matrix interference.
 
-ghost in the machine: Mysterious phenomena and perceived entities that exist entirely within the Matrix. Some believe these are AIs or magical spirits of the Matrix. Others believe they are the disembodied personalities of people trapped within the Matrix during and since the Crash of ‘64.
+#### geo-tagging
+Assigning [[Matrix#augmented reality object ARO|AROs]] to a specific physical location, often using [[Matrix#radio frequency identification tag RFID pronounced “arfid” A device no bigger than a matchbox that holds data and other miniaturized electronics|RFID]] tags.
 
-GOD: Grid Overwatch Division, an entity run by the Corporate Court to oversee security in the Matrix.
+#### ghost in the machine
+Mysterious phenomena and perceived entities that exist entirely within the Matrix. Some believe these are AIs or magical spirits of the Matrix. Others believe they are the disembodied personalities of people trapped within the Matrix during and since the Crash of ‘64.
 
-grid: The resources offered by a Matrix provider; typically, you can access information on that provider’s grid easily, while accessing info on other grids is more difficult. The term is also used to refer to the Matrix as a whole outside any host.
+#### GOD
+AKA: Grid Overwatch Division. An entity run by the Corporate Court to oversee security in the Matrix.
 
-hacker: Someone who explores and exploits the Matrix.
+#### grid
+The resources offered by a Matrix provider; typically, you can access information on that provider’s grid easily, while accessing info on other grids is more difficult. The term is also used to refer to the Matrix as a whole outside any host.
 
-haptics: Computer interactions based on the sense of touch.
+#### hacker
+Someone who explores and exploits the Matrix.
 
-host: A self-contained place in the Matrix. Hosts have no physical location, as they exist purely in the Matrix cloud.
+#### haptics
+Computer interactions based on the sense of touch.
 
-hot-sim: Simsense without the safeguards that prevent potentially damaging biofeedback. Hot-sim is illegal in the civilized world.
+#### host
+A self-contained place in the Matrix. Hosts have no physical location, as they exist purely in the Matrix cloud.
 
-icon: The virtual representation of a device, persona, file, or host in the Matrix.
+#### hot-sim
+Simsense without the safeguards that prevent potentially damaging biofeedback. Hot-sim is illegal in the civilized world.
 
-intrusion countermeasures (IC): Software that runs in a host and protects that host from unauthorized users. The abbreviation, IC, is pronounced “ice.”
+#### icon
+The virtual representation of a device, persona, file, or host in the Matrix.
 
-jackpoint: Any physical location that provides access to the Matrix through plugging in with a wired connection.
+#### IC
+AKA: intrusion countermeasures.Software that runs in a host and protects that host from unauthorized users. The abbreviation, IC, is pronounced “ice.”
 
-living persona: The mental “organic software” that allows technomancers to access the Matrix with only their minds.
+#### jackpoint
+Any physical location that provides access to the Matrix through plugging in with a wired connection.
 
-master: A device, usually a commlink, cyberdeck, or host, that is linked to other devices in order to protect them against Matrix attacks.
+#### living persona
+The mental “organic software” that allows technomancers to access the Matrix with only their minds.
 
-Matrix authentication recognition key (mark): A token that measures a user’s access to a device, host, or persona.
+#### master
+A device, usually a commlink, cyberdeck, or host, that is linked to other devices in order to protect them against Matrix attacks.
 
-Matrix object: A persona, file, device, mark, or host in the Matrix. Matrix: The worldwide telecommunications network and everyone and everything connected to and by that network.
+#### Mark
+AKA Matrix authentication recognition key. A token that measures a user’s access to a device, host, or persona.
 
-meat: (slang) An unwired individual, or the physical part of a Matrix user in VR.
+#### Matrix object
+A persona, file, device, mark, or host in the Matrix.
 
-meshed: (slang) Online, connected to the Matrix.
+#### Matrix
+The worldwide telecommunications network and everyone and everything connected to and by that network.
 
-noise: Unwanted data or wireless signals that make using the Matrix slower or more difficult. (slang) Unwelcome information.
+#### meat
+(slang) An unwired individual, or the physical part of a Matrix user in VR.
 
-persona: A user, agent, or other autonomous or semi-autonomous icon in the Matrix.
+#### meshed
+(slang) Online, connected to the Matrix.
 
-personal area network (PAN): The set of devices slaved to a single commlink or cyberdeck.
+#### noise
+Unwanted data or wireless signals that make using the Matrix slower or more difficult. (slang) Unwelcome information.
 
-pilot: A sophisticated program with semi-autonomous decisionmaking abilities.
+#### persona
+A user, agent, or other autonomous or semi-autonomous icon in the Matrix.
 
-radio frequency identification tag (RFID, pronounced “arfid”): A device no bigger than a matchbox that holds data and other miniaturized electronics.
+#### PAN
+AKA personal area network. The set of devices slaved to a single commlink or cyberdeck.
 
-real life (RL): (slang) Anything not having to do with the Matrix.
+#### pilot
+A sophisticated program with semi-autonomous decisionmaking abilities.
 
-Resonance: The measure of a technomancer’s ability to access and manipulate the Matrix.
+#### RFID
+AKA: radio frequency identification tag. Pronounced “arfid”): A device no bigger than a matchbox that holds data and other miniaturized electronics.
 
-Resonance Realms: A mysterious plane of virtual existence that technomancers can access. It is believed that a copy of every bit of electronic data ever created exists somewhere in the Resonance Realms.
+#### RL
+AKA: real life. (slang) Anything not having to do with the Matrix.
 
-rigger: Someone who uses a control rig to “jump” into a properly adapted device (usually a drone, vehicle, or security system) in order to directly control it as if the device were an extension of his or her own body.
+#### Resonance
+The measure of a technomancer’s ability to access and manipulate the Matrix.
 
-sculpting: The look and feel of a host’s internal virtual space.
+#### Resonance Realms
+A mysterious plane of virtual existence that technomancers can access. It is believed that a copy of every bit of electronic data ever created exists somewhere in the Resonance Realms.
 
-simrig: A device for making simsense recordings.
+#### rigger
+Someone who uses a control rig to “jump” into a properly adapted device (usually a drone, vehicle, or security system) in order to directly control it as if the device were an extension of his or her own body.
 
-simsense (sim, simstim): Hardware and software that enable a person to experience what has happened to someone else as if they had sensed and experienced the events themselves. Requires a direct neural interface.
+#### sculpting
+The look and feel of a host’s internal virtual space.
 
-slave: A device connected to a master device, usually a commlink, cyberdeck, or host, on which the slave depends for defense against Matrix attacks.
+#### simrig
+A device for making simsense recordings.
 
-spam zone: An area flooded with invasive and/or viral AR advertising, causing noise.
+#### simsense 
+AKA: sim, simstim. Hardware and software that enable a person to experience what has happened to someone else as if they had sensed and experienced the events themselves. Requires a  [[Matrix#DNI|direct neural interface]].
 
-spider: A security hacker/rigger employed by a corporation or law-enforcement agency to protect a physical space or a host from hackers.
+#### slave
+A device connected to a master device, usually a commlink, cyberdeck, or host, on which the slave depends for defense against Matrix attacks.
 
-sprite: A Resonance-based entity created (or called) by a technomancer.
+#### spam zone
+An area flooded with invasive and/or viral AR advertising, causing noise.
 
-static zone: An area where the physical environment creates noise.
+#### spider
+A security hacker/rigger employed by a corporation or law-enforcement agency to protect a physical space or a host from hackers.
 
-submersion: A state in which a technomancer strengthens his or her connection to the Resonance.
+#### sprite
+A Resonance-based entity created (or called) by a technomancer.
 
-tag: An RFID tag.
+#### static zone
+An area where the physical environment creates noise.
 
-technomancer: A person who is able to use and manipulate the Matrix without hardware. The term often carries connotations of hacking and cyber-terrorism.
+#### submersion
+A state in which a technomancer strengthens his or her connection to the Resonance.
 
-trodes: A headband or net worn on the head that creates a direct neural interface. Popular models include an attached hat, wig, or other headware. Short for “dry active electrode array.”
+#### tag
+An [[Matrix#RFID|RFID]] tag.
 
-virtual reality (VR): A state where outside stimuli are ignored and the user only receives impressions from the Matrix. Requires a direct neural interface.
+#### technomancer
+A person who is able to use and manipulate the Matrix without hardware. The term often carries connotations of hacking and cyber-terrorism.
 
-wide area network: A set of devices slaved to a host.
+#### trodes
+A headband or net worn on the head that creates a  [[Matrix#DNI|direct neural interface]]. Popular models include an attached hat, wig, or other headware. Short for “dry active electrode array.”
+
+#### VR
+AKA: virtual reality. A state where outside stimuli are ignored and the user only receives impressions from the Matrix. Requires a [[Matrix#DNI|direct neural interface]].
+
+#### wide area network
+A set of devices slaved to a host.
