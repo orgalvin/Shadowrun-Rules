@@ -24,7 +24,7 @@ Chase Actions
 All chase actions are complex actions
 - Catch up/break away
 	- number of range categories a vehicle can move is equal to the acceleration.
-	- Drier makes a Reaction + Vehicle Skill [Speed or Handling] (maneuver Threshold) [[Vehicle Tests]]. For every hit they may shift one range category. If this would result in exceeding extreme range the pursuing vehicle can make the same test to try and stay in sight
+	- Driver makes a Reaction + Vehicle Skill [Speed or Handling] (maneuver Threshold) [[Vehicle Tests]]. For every hit they may shift one range category. If this would result in exceeding extreme range the pursuing vehicle can make the same test to try and stay in sight
 - Cut off (short range)
 	- Make an opposed Reaction + Vehicle Skill [Handling]. The target vehicle must make an immediate Vehicle Test or crash
 - Ram [[Vehicle Combat]] (short range)

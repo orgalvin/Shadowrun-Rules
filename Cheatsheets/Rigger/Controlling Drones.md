@@ -46,6 +46,9 @@ Data Processing + Intuition + (Initiative Dice + 4)D6
 AS: Weapon Targeting + Pilot [Handling]
 
 ## Movement and Sensing
+
+
+
 ### Evade (Autonomous)
 AS: Model Maneuvering + Pilot  [Handling]
 
