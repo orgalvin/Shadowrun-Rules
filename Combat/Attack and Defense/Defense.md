@@ -1,4 +1,4 @@
-[[Combat!]]
+[[Attack And Defense]]
 
 Ranged Defense
 - standard Reaction + intuition test for free, or instead can use Full Defense, decreasing initiative by 10 to gain a bonus on the Defense test equal to their Willpower for the whole combat turn

@@ -1,4 +1,4 @@
-[[Combat!]]
+[[Attack And Defense]]
 
 **Grenades**
 When throwing a grenade, choose a location as a tar- get. Use a Throw Weapon Simple Action and make a Throwing Weapons + Agility [Physical] (3) Test modified for range and all the usual conditions. Success means the grenade lands right where you wanted. If you don’t meet the threshold, the grenade scatters. The gamemaster determines scatter by consulting the [[Scatter Table]] (p. 182). Three hits on the test means no scatter, but it is still possible to hit the target if the scatter roll is low and the thrower got some hits (see Determine Scatter, p. 182). This all goes back to the old saying: “Close only counts in horseshoes and hand grenades.”

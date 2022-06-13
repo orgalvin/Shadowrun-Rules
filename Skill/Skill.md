@@ -378,6 +378,8 @@ Skill Group: None
 Specializations: Aura Reading, Astral Signatures, by
 aura type (Metahumans, Spirits, Foci, Wards, etc.)
 
+![[Assensing Table.png]]
+
 ##### ASTRAL COMBAT (WILLPOWER)
 Fighting in Astral Space requires the Astral Combat
 skill. Combat in the Astral World relies on a very different
