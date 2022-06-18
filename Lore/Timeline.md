@@ -15,7 +15,13 @@ From there we find Sara. Learn that Jinni and Nick (TheMediaMagus) have left sep
 
 Initial gain was 25000 nuyen for the job for everyone, then Gyoubu was able to get the cost up to 30000 after we learn that there's magical shit going on.
 
+## 20790920 Case of the Aries safer streets data
+Get job through [[People#Ba-san|Ba-san]] who tells us about Brockhouse who is from  Saeder-Krupp Heavy Industries and wants us to nab data from Aries facility with no one finding out.
 
+Sneak in underneath, get the file and jump out the window. Car chase. Get to Crash's place. There are cops there. Apparently Nightprowlers beat up the place. Ork gang that doesn't like the the neutrality of Ork's gang.
+
+## 20790924
+Get paid
 
 
 

@@ -66,7 +66,7 @@ NEXT: [[Matrix Combat Flow Chart#Target spotted]]
 		* [[Matrix Combat Flow Chart#Destroy Attack target]]
 		--OR--
 		* 
-	* No: Use Matrix Perception until you spot target
+	* No: Use [[Matrix Actions#MATRIX PERCEPTION COMPLEX ACTION|Matrix perception]] until you spot target
 
 # Destroy/Attack target
  Increases [[Overwatch Score|grid overwatch score]]
