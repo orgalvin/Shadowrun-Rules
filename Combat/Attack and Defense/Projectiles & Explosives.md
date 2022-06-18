@@ -1,7 +1,7 @@
-[[Combat!]]
+[[Attack And Defense]]
 
 **Grenades**
-When throwing a grenade, choose a location as a tar- get. Use a Throw Weapon Simple Action and make a Throwing Weapons + Agility [Physical] (3) Test modified for range and all the usual conditions. Success means the grenade lands right where you wanted. If you don’t meet the threshold, the grenade scatters. The game- master determines scatter by consulting the [[Scatter Table]] (p. 182). Three hits on the test means no scatter, but it is still possible to hit the target if the scatter roll is low and the thrower got some hits (see Determine Scatter, p. 182). This all goes back to the old saying: “Close only counts in horseshoes and hand grenades.”
+When throwing a grenade, choose a location as a tar- get. Use a Throw Weapon Simple Action and make a Throwing Weapons + Agility [Physical] (3) Test modified for range and all the usual conditions. Success means the grenade lands right where you wanted. If you don’t meet the threshold, the grenade scatters. The gamemaster determines scatter by consulting the [[Scatter Table]] (p. 182). Three hits on the test means no scatter, but it is still possible to hit the target if the scatter roll is low and the thrower got some hits (see Determine Scatter, p. 182). This all goes back to the old saying: “Close only counts in horseshoes and hand grenades.”
 
 Grenades are small, self-contained explosive or gas- delivery packages. They may come with a built-in timer to detonate after a pre-set amount of time (usually three seconds), a motion-sensor set to detonate on impact, or a wireless link set to detonate upon remote command. The type of detonation device determines the special rules and timing of grenade explosions.
 

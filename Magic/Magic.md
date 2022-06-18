@@ -2,6 +2,10 @@
 
 Files:
 [[Spells]]
+[[Summoning & Spirits]]
+[[Rituals]]
+[[The Astral World]]
+[[Mana Barriers]]
 ```toc
 ```
 ### Force
@@ -42,8 +46,6 @@ Noticing magic or casting is a [[Skill#PERCEPTION INTUITION|Perception]] + [[Att
 		- **Direct:** Deals damage equal to net hits. [[Skill#SPELLCASTING MAGIC|Spellcasting]] + [[Attribute#MAGIC MAG|Magic]] [Force] vs either [[Attribute#BODY BOD|Body]] for physical spells or [[Attribute#WILLPOWER WIL|Willpower]] for mana spells
 		- **Indirect:** Originates near the magicians body, and then launched with an opposed [[Skill#SPELLCASTING MAGIC|Spellcasting]] + [[Attribute#MAGIC MAG|Magic]] [Force] vs [[Attribute#REACTION REA|Reaction]] + [[Attribute#INTUITION INT|Intuition]]. Damage Value is Force + net hits, with an AP of -Force. Damage is resisted with [[Attribute#BODY BOD|Body]] + [[Armor]]
 		- **Indirect Area:** Functions like a grenade, [[Skill#SPELLCASTING MAGIC|Spellcasting]] + [[Attribute#MAGIC MAG|Magic]] [Force] (3) with Scatter of 2d6 meters. Net hits are added to the Damage value, but only if the threshold is met; otherwise the spell goes off but the net hits are used to reduce scatter by one meter per hit.
-	- Detection Spells
-		- **Active:** Opposed [[Skill#SPELLCASTING MAGIC|Spellcasting]] + [[Attribute#MAGIC MAG|Magic]][Force]
 1. Resist Drain
 	- Drain Value never lower than 2
 	- Shaman resists with [[Attribute#CHARISMA CHA|Charisma]] + [[Attribute#WILLPOWER WIL|Willpower]]
@@ -54,3 +56,42 @@ Noticing magic or casting is a [[Skill#PERCEPTION INTUITION|Perception]] + [[Att
 
 Glitches
 A glitch on a spell might cause extra drain (typically +2), invoke a different elemental effect than intended, hit the wrong target, or anything else the GM can think of. On a critical glitch the spell could get away from you and cause all sorts of havoc, or you might not get to resist Drain, or it could go off in an unconventional or unpredictable manner, up to the GM.
+
+### Counterspelling
+Counterspelling offers spell defense and dispelling. This skill does not work against spirits, critter powers, or alchemical preparations
+
+#### Spell Defense
+Spell defense is used against hostile spells cast at you or at targets that are within your line of sight (using the same rules as for targeting spells) that you decide to protect with spell defense. Declaring this protection is either a Free Action or, if you don’t have one left, an Interrupt Action that reduces your Initiative Score by 5. Each Combat Turn, you have a pool of dice for spell defense equal to your [[Skill#COUNTERSPELLING MAGIC|Counterspelling]] skill. When a spell is cast, you may choose to use some or all of your Counterspelling dice to defend against an incoming spell. Against each spell attack, you have to choose how many dice from this pool to allocate for defense, and you can select how many people (including yourself if you desire) are covered by these defensive dice. You can protect a number of people at one time equal to your Magic Rating. These dice are then added to the defense tests of everyone you’re covering. The pool refreshes at the beginning of each Combat Turn.
+
+#### Dispelling
+Dispelling is used to counter a sustained or quickened spell. A Dispelling Test is the dispeller’s [[Skill#COUNTERSPELLING MAGIC|Counterspelling]] + [[Attribute#MAGIC MAG|Magic]] [Astral] v. spell’s [[#Force]] + caster’s [[Attribute#MAGIC MAG|Magic]] (+ amount of Karma spent on quickening the spell, if any). You may use a counterspelling focus to add to the test. You can also use reagents to change the limit of the test. Every net hit reduces the number of hits the caster had in casting the spell. This may reduce the effectiveness of the spell (for example, it could affect a Shadow spell’s visibility modifier). If the spell is reduced to 0 net hits, the spell ends completely. Regardless of how it goes, you take the Drain from the spell as if you had cast it—Physical if the spell’s Force was higher than your Magic rating, Stun otherwise.
+
+A ritual can be dispelled if it contains a spell keyword and is ongoing (sustained or with a duration). Make an Opposed [[Skill#COUNTERSPELLING MAGIC|Counterspelling]] + [[Attribute#MAGIC MAG|Magic]] [Astral] Test against a dice pool equal to the sum of the Force of the spell and the total of the Magic ratings of all of the ritual’s participants. Every net hit you get reduces the net hits from the ritual’s sealing step (p. 296) by 1. You take drain equal to twice the hits (not net hits) on the opposing test. The Drain from dispelling a ritual is Stun unless the ritual’s Force is greater than your Magic rating, in which case the Drain is Physical.
+
+### Ritual Spellcasting
+While spellcasting is the quick manipulation of mana, ritual spellcasting shapes mana over a longer period of time. More time allows you to manipulate mana in ways that normal spellcasting won’t allow. Rituals, like spells and alchemical preparations, are learned separately and cost the same in Karma. Rituals can be performed by either one person or a group. Spells learned through normal channels can be incorporated into some rituals, such as a Combat spell in the Prodigal Spell ritual (p. 297), and do not cost additional Karma to learn sep- arately (an advantage ritual magic has over alchemy).
+
+To cast a ritual, follow these steps:
+- Choose Ritual Leader
+	- Each ritual must have a leader who knows the ritual being performed and can complete the last step, which seals the ritual. In this step, the participants must announce their participation with the leader. The participants do not need to have learned the ritual; they simply must be willing to take part. All effects from the ritual have the leader’s astral signature (p. 312). Each participant who is not of the same tradition as the leader suffers a –2 dice pool penalty on all actions for this ritual. If you’re casting a ritual all alone, you’re the leader.
+- Choose Ritual
+	- The leader must then choose the ritual to perform. If required the leader also chooses the spell that will be included as part of the ritual. If the ritual requires knowledge of a spell or spell category, only the leader needs to know them.
+- Choose the Force
+	- The Force of the ritual determines not only its general power, but also the Force of any spell woven into it.
+- Set up the Foundation
+	- A ritual must be performed in a magical lodge appropriate to the leader’s tradition, which is referred to as the foundation for the ritual. This can be a permanent mag- ical lodge, or a temporary one created using reagents (p. 316). The Force of the lodge must equal or exceed the Force of the ritual to be cast. Once the lodge is active, no participant (except a spotter, if the ritual calls for one) may leave the foundation until the ritual is complete without causing the ritual to fail.
+- Give the Offering
+	- As part of the ritual, the leader must expend reagents equal to the Force of the ritual. The leader may expend more reagents to reduce Drain when sealing the spell (step 7). For every (Force) drams of reagents spent (after the initial offering), the Drain value is reduced by 1, to a minimum of 2. Even if you’re not spending reagents, you’ll still be spending a little time on this step making the foundation ready for the ritual.
+- Perform the Ritual
+	- During this step, the actual ritual is performed. The duration of this step is specific to each ritual (it’s in the descrip- tion), but it’s almost always based on the ritual’s Force.
+- Seal the Ritual
+	- The final step in any ritual is sealing it, which completes the ritual. The leader makes a [[Skill#RITUAL SPELLCASTING MAGIC|Ritual Spellcasting]] + [[Attribute#MAGIC MAG|Magic]] [Force] v. (Force x 2) test, with a Teamwork test from each of the participants. Each ritual’s description explains how the net hits from the sealing step are used, if at all.
+	- After the spell effect goes off, each participant also takes Drain equal to twice the number of hits (not net hits) on the defense side of the Ritual Spellcasting Test (minimum 2). If the number of hits the leader got on her Teamwork Test was higher than her Magic rating, this drain is Physical; otherwise it’s Stun.
+
+**Ritual Failure**
+There are a number of rare things that could cause a ritual to fail prematurely. If a participant leaves the foundation after Step 4 of the ritual but before the ritual is complete, the ritual fails. If the leader is incapacitated (or killed) before Step 7, the ritual collapses and fails. If the foundation is disrupted or broken at any point after Step 4, the ritual fails.
+
+When a ritual fails, every participant immediately suffers Drain. Make a Force x 2 test, as though the spell had actually been cast; the Drain is equal to twice the number of hits (not net hits) on this test in Stun damage. Any reagents you’ve already spent in Step 5 are wasted.
+
+**Glitches**
+A glitch on a ritual in any step could result in extra Drain (e.g.,+2 Drain Value), an increase of 2 to the Force resist- ing completion of the spell, or the leader being forced to seal the ritual on his own. On a critical glitch, anything goes (prepare to put down that minion, or find that you missed your target, or find that what you intended to be a healing circle really is an astral gateway and everybody just got dumped on some metaplane, or something equally unpleasant your gamemaster thinks up).

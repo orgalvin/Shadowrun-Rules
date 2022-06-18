@@ -43,3 +43,9 @@ Long | 1 hour
 Consuming | 1 day
 Exhaustive | 1 week
 Mammoth | 1 month
+
+3.5
+2
+3
+4
+2

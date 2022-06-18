@@ -50,7 +50,7 @@ You send harmful instructions to a persona or device, causing Matrix damage to t
 ##### DISARM DATA BOMB (COMPLEX ACTION)
 Marks Required: none 
 Test: Software + Intuition [Firewall] v. Data Bomb Rating x 2 
-You attempt to disarm a Data Bomb that you have detected (usually as the result of a [[Matrix Perception]] action). If you score any net hits, the Data Bomb is removed and deleted. If not, the Data Bomb activates, causing its damage and possibly destroying any file to which it was attached (assuming it was set to destroy the file). 
+You attempt to disarm a [[#SET DATA BOMB COMPLEX ACTION|Data Bomb]] that you have detected (usually as the result of a [[Matrix Perception]] action). If you score any net hits, the Data Bomb is removed and deleted. If not, the Data Bomb activates, causing its damage and possibly destroying any file to which it was attached (assuming it was set to destroy the file). 
 
 ##### EDIT FILE (COMPLEX ACTION) 
 Marks Required: 1 
