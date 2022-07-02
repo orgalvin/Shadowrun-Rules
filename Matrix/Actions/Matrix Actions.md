@@ -17,6 +17,11 @@ Marks Required: none
 Test: Cybercombat + Logic [Attack] v. Willpower + Firewall 
 You can use this action to mark a target without obtaining the normal permissions you need. This is the action for hackers emphasizing their Attack over their [[Matrix Attributes#Sleaze|Sleaze]], making it related to [[#HACK ON THE FLY COMPLEX ACTION|Hack on the Fly]]. If you succeed in this action, you place one [[mark]] on it. You can have up to a maximum of three [[mark|marks]] per icon. If you wish, you may also inflict 1 DV of [[Matrix damage]] to the target for every two full net hits, if the target can take [[Matrix damage]], which is resisted with the target’s Device Rating + Firewall. Before rolling, you can declare that you are trying to place more than one [[mark]]. If you try for two [[mark|marks]] in one shot, you take a –4 dice pool penalty on the attempt. If you try for three [[mark|marks]] in a single swipe, you take a –10 dice pool penalty. You can also use this action to hop to a grid for which you don’t have legitimate access. The defense dice pool in this case is 4 dice for a local grid or 6 dice for a global grid. If you succeed, instead of putting a [[mark]] on the grid, you hop to that grid immediately. Using Brute Force to hop grids successfully doesn’t alert the grid or its demiGOD the way most successful Attack actions do. 
 
+##### CALIBRATION (SIMPLE ACTION) 
+Marks required: One per persona 
+Test: Electronic Warfare + Logic [Data Processing] 
+You can increase the current Initiative Score of a number of personas on whom you have marks by 1 for every 2 hits. The number of personas affected cannot exceed your Data Processing. The Initiative Score then decreases each Combat Turn as normal. 
+
 ##### CHANGE ICON (SIMPLE ACTION)
 Marks Required: Owner 
 Test: none (Data Processing action) 
@@ -46,6 +51,11 @@ You overload part of your target’s memory and scramble one of its running prog
 Marks Required: none 
 Test: Cybercombat + Logic [Attack] v. Intuition + Firewall 
 You send harmful instructions to a persona or device, causing Matrix damage to the target. Your attack has a Damage Value equal to your Attack rating, with one additional box of damage per net hit, and two additional boxes of damage for each mark you have on the target. This damage is [[Matrix damage]] (p. 228), resisted with the target’s Device Rating + Firewall. 
+
+##### DENIAL OF SERVICE (SIMPLE ACTION) 
+Marks required: See description 
+Test: Cybercombat + Logic [Attack] v. Willpower + Firewall 
+A decker or technomancer may target a wirelessly active device or PAN. Make a Computer + Intuition [Data processing] Test opposed by Willpower + Firewall, and apply the number of net hits x 2 as a negative dice pool modifier to all tests made with that device until the beginning of the next Combat Turn. For every mark the decker or technomancer has on an enemy PAN, they may apply this effect to two additional devices slaved to the PAN. 
 
 ##### DISARM DATA BOMB (COMPLEX ACTION)
 Marks Required: none 
@@ -91,9 +101,24 @@ Marks Required: none
 Test: Hacking + Logic [Sleaze] v. Intuition + Firewall 
 You can use this action to mark a target without getting the normal permissions. This is the action for hackers emphasizing their [[Matrix Attributes#Sleaze|Sleaze]] over their Attack, making it an analog to Brute Force. When targeting an icon, you put one mark on it, up to a maximum of three marks per icon. Additionally, every two full net hits counts as one hit on a Matrix Perception Test, so you can get some info along with your mark. Before rolling, you can declare that you are trying for more than one mark. If you try for two marks in one shot, you take a –4 dice pool penalty on the attempt. If you try for three marks in one go, you take a –10 dice pool penalty. You can also use this action to hop to a grid for which you don’t have legitimate access. The defense dice pool in this case is 4 dice for a local grid or 6 dice for a global grid. If you succeed, instead of putting a mark on the grid, you hop to that grid immediately. Using  [[#HACK ON THE FLY COMPLEX ACTION|Hack on the Fly]] to hop grids unsuccessfully doesn’t alert the grid or its demiGOD the way most unsuccessful [[Matrix Attributes#Sleaze|Sleaze]] actions do. 
 
+##### HAYWIRE (COMPLEX ACTION) 
+Marks required: None 
+Test: Cybercombat + Logic [Attack] v. Willpower + Firewall 
+Target must be a persona not running in VR. Haywire disables all of the target’s PAN-related functions. Physical devices still function, so smartguns can still fire and chemsuits still offer protection, but without wireless or PAN functions. This effect lasts until the target succeeds an extended Computer + Logic [Data Processing] (Hacker’s Net Hits, Simple Action) test with a threshold equal to the net hits from the attacker’s roll; each attempt takes a simple action. The target may simply reset their device and reboot it with a Complex Action; the device will be back online at the end of the following Combat Turn, which takes one minute. Glitching the test to fix the device adds an additional net hit to the attacker’s roll. A critical glitch causes all the devices on the PAN to require an OS reinstall. This takes multiple hours and a connection to a persona-enabled device. 
+
 ##### HIDE (COMPLEX ACTION) 
 Marks Required: 0 
 Test: Electronic Warfare + Intuition [Sleaze] v. Intuition + Data Processing You’ll probably be spotted by another icon, even if you’re running silent. You can use this action to make a target lose you. If you succeed, the target stops spotting you and needs to perform a new Matrix Perception action against you if it wants to find you again. You can’t hide from an icon that has a mark on you, so you’ll need to clear those before you can try this action. 
+
+##### I AM THE FIREWALL (COMPLEX ACTION/INTERRUPT [–5 INITIATIVE SCORE]) 
+Marks required: None 
+Test: Computer + Intuition [Data Processing] 
+I Am the Firewall allows the hacker to give a Defense test bonus to all allies with access to an AR feed from the user. The number of bonus dice is equal to the number of hits on a Computer + Intuition [Data Processing] Test. This bonus lasts until the beginning of the hacker’s next Initiative Pass. The hacker can only share their feed with a number of users equal to or less than their Data Processing attribute. When you take this action as an Interrupt Action, your Initiative Score is reduced by 5. 
+
+##### INTERVENE (INTERRUPT ACTION [–5 INITIATIVE SCORE]) 
+Marks required: None 
+Test: Computer + Intuition [Data Processing] 
+This allows the hacker to give an immediate defense bonus to the owner of a device slaved to the hacker’s PAN. This action can be taken only if the device making the attack is wirelessly enabled and the hacker is aware of it. When you take this action, your Initiative Score is reduced by 5. Roll your Computer + Intuition [Data Processing], adding the number of hits to your ally’s Defense test. This bonus applies only to the current Defense test—it cannot be carried over to any other Combat Turn or Initiative Pass. 
 
 ##### INVITE MARK (SIMPLE ACTION)
 Marks Required: Owner
@@ -115,6 +140,11 @@ Marks Required: 3
 Test: Electronic Warfare + Logic [Data Processing] v. Willpower + Firewall
 You jump into a device that has a rigger adaptation, usually a vehicle or a drone. There’s a list of things you need to have in order to jump into a device: you have to have three marks on the device you want to jump into, you have to be in VR, the device you want to jump into has to have a rigger adaptation, and you have to have a control rig. If you are the device’s owner, or the device’s owner has given you permission to jump into the device, you don’t need to make a test. In the Matrix, the icon of the device you jumped into becomes part of your persona. If someone else is already jumped into the device, you cannot attempt this action until he or she vacates. 
 
+##### MASQUERADE (COMPLEX ACTION) 
+Marks required: 2/2 
+Test: Hacking + Intuition [Sleaze] v. Logic + Firewall 
+This action allows a hacker to impersonate a persona on the Matrix. Since persona data is updated in real time, this action requires 2 marks on one target (the persona being impersonated) and 2 marks on a second target (the icon you are trying to fool). For every net hit scored on a Hacking + Intuition [Sleaze] v. Logic + Firewall against the second target, you have convinced them you are target one for one minute. This can be used to impersonate someone online, intercept their calls, use their social media, rummage through their email history, or other creative mischief, but processes like changing device owners or perform ing major financial actions (like bank transfers) have too many double-checks for Masquerade to work. If the persona you’re impersonating logs off, those marks are immediately lost, and the disguise drops. While masquerading, you are never considered the owner with regard to any of the impersonated persona’s devices. 
+
 ##### MATRIX PERCEPTION (COMPLEX ACTION)
 Marks Required: none
 Test: Computer + Intuition [Data Processing] (v. Logic + [[Matrix Attributes#Sleaze|Sleaze]])
@@ -124,6 +154,11 @@ This versatile and important action is used both for finding icons in the Matrix
 Action: special Marks Required: n/a
 Test: Simple Computer + Intuition [Data Processing]
 You search the Matrix for information about a topic. The time it takes and the threshold of the test depend on the general availability of the information in question and the area being searched, respectively. Any hits above and beyond the threshold can be used to reduce the search time. Divide the base time by the net hits to determine the reduction. If you fail this test, you still spend the full base time looking. Some information is protected and kept secret, stored in a host that is not publicly accessible. Finding this information usually requires you to find and enter the hosts in which the data is hidden. You can then make a Matrix Search within the host, using a base time of 1 minute (regardless of the kind of information you’re looking for). This only works if the information is at least occasionally accessed by the legitimate users of the host. If the information is archived, you’ll need to dig deeper into the host for that information, a dangerous process that is detailed in the forthcoming Matrix sourcebook. 
+
+##### POPUP (SIMPLE ACTION) 
+Marks required: 1 
+Test: Hacking + Logic [Sleaze] or Cybercombat + Logic [Attack] v. Willpower + Firewall
+Target must be a persona not running in VR. If the target has wireless-enabled AR, they are flooded with Matrix spam, taking a penalty to all actions equal to [net hits] until the start of the attacker’s next Combat Turn. If the attacker uses Cybercombat + Logic, the attack also deals Matrix damage equal to net hits. If the attacker uses Hacking + Logic, they may immediately act as if the net hits on the attack were net hits on a Matrix Perception test, and they gain any relevant information. 
 
 ##### REBOOT DEVICE (COMPLEX ACTION)
 Marks Required: 3 
@@ -145,17 +180,43 @@ Marks Required: 1
 Test: Electronic Warfare + Intuition [Sleaze] v. Logic + Firewall
 This action lets you intercept Matrix traffic sent to and from your target for as long as you have the target marked. You can listen to, view, or read this data live, or you can save it for later playback/viewing if you have something to store it on (your deck will do). 
 
+#####  SQUELCH (SIMPLE ACTION) 
+Marks required: None 
+Test: Electronic Warfare + Logic [Attack] v. Sleaze + Intuition
+A successful Squelch test prevents the target device from calling or sending messages for a number of minutes equal to the net hits scored. 
+
 ##### SPOOF COMMAND (COMPLEX ACTION) 
 Marks Required: 1 (see description) 
 Test: Hacking + Intuition [Sleaze] v. Logic + Firewall 
 You spoof a device’s owner’s identity, making the device think that your command is a legitimate one from its owner. You need one mark on the icon you are imitating; you do not need a mark on the target. The opposing dice roll is still based on the target, though. This trick only works on devices and agents, not IC, sprites, hosts, personas, or any other icons. 
+
+##### SUBVERT INFRASTRUCTURE (COMPLEX ACTION)
+Marks required: 1 
+Test: Electronic Warfare + Intuition [Sleaze] v. Intuition + Firewall 
+This action allows a decker or technomancer to slightly alter the operation of multiple physical devices so they respond to the hacker’s commands. If the hacker has at least 1 mark on the host, a successful Electronic Warfare + Intuition [Sleaze] v. Intuition + Firewall Test allows them to control one similar simple device (traffic lights, vending machines, home appliances, desk lamps, etc., at gamemaster discretion) slaved to that host for every net hit. This action cannot be used to make an attack. The hacker can sustain controlling these devices as a Complex Action each Combat Turn. 
 
 ##### SWITCH INTERFACE MODE (SIMPLE ACTION)
 Marks Required: Owner
 Test: none (Data Processing action) 
 You switch your perception from AR to VR or vice versa. Switching to VR causes your body to go limp, so don’t do it somewhere dangerous. If you switch from VR to AR, you lose the bonus Initiative Dice from VR (Changing Initiative, p. 160). If you’re link-locked (p. 229), you cannot switch interface modes. You can only do this to yourself; you can’t switch other people’s interface mode. 
 
+##### TAG (SIMPLE ACTION) 
+Marks required: None 
+Test: Computer + Logic [Data Processing] v. Sleaze + Intuition
+The hacker may “tag” a number of targets on a single PAN, equal to their net hits, within their line of sight. They can then relay those tags wirelessly to allies. Tagging a target negates up to 2 dice in penalties from Visibility and Light/Glare to any affected ranged attack rolls allies may be making against that target, including blind-fire due to invisibility or shooting through cover. Allies who can see a tag may also take one additional Take Aim Action against that target as a Free Action on each Initiative Pass. Tags may be sustained by spending a Simple Action to refresh the tags each Combat Turn. When using a PI-Tac, the hacker may add the PI-Tac’s level to the number of targets they may tag. Note: In order for allies to receive this bonus, they must have the ability to see AROs.
+
 ##### TRACE ICON (COMPLEX ACTION)
 Marks Required: 2
 Test: Computer + Intuition [Data Processing] v. Willpower + [[Matrix Attributes#Sleaze|Sleaze]] 
 You find the physical location of a device or persona in the Matrix. After succeeding with this action, you know the target’s location for as long as you have at least one mark on the target. This doesn’t work on hosts because they generally have no physical location, or IC programs because they are confined to their hosts.
+
+##### WATCHDOG (COMPLEX ACTION) 
+Marks required: None 
+Test: Electronic Warfare + Logic [Sleaze] v. Logic + Firewall 
+Target must be a persona or device. If successful, place one mark on the target. The user is now aware of the Matrix actions the target is going to use before they use them, and they may attempt to stop them. A Watchdog mark allows the hacker to use Haywire or Popup as Interrupt Actions (for –10 initiative) or Squelch as an Interrupt Action (for –5 initiative) against the target with the Watchdog mark. This ability lasts as long as the target is marked by the user.
+
+
+
+
+
+
