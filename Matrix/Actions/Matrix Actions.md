@@ -91,6 +91,12 @@ Marks Required: Owner
 Test: none (Firewall action) 
 This allows you to defend against Attack actions, and may be taken at any time. Whenever you make a defense test against a Matrix Action, add your Willpower to the dice pool (or add it again if it’s already in there). When you take this action, your Initiative Score is reduced by 10, but the effects last for the rest of the Combat Turn. 
 
+##### GARBAGE IN/GARBAGE OUT (COMPLEX ACTION)
+Marks Required: 3
+Test: Software + Logic [Sleaze] vs. Logic + Firewall
+
+This allows a decker to “cross the wires” of a single device, confusing its input and output commands.Only a single input can be changed to correspond to a single output—devices can’t be reprogrammed whole- sale or made to act in a manner outside of their original design through Garbage In/Garbage Out. For example, a smartgun-enabled firearm could be reprogrammed so that every time the fire command is given (through either pulling the trigger or DNI), the clip—or even the magazine—ejects. An elevator could be reprogrammed to go to the 23rd floor instead of the lobby, but a decker can’t override its basic safety protocols since that would require multiple commands. Gamemasters have final say in what can and cannot be reprogrammed, but the rule of thumb should be “a single keystroke” of activity or the inversion of a binary relationship—the “friend or foe” recognition program in a smart safety system, for example. Rebooting the device restores the code to its proper state.
+
 ##### GRID HOP (COMPLEX ACTION)
 Marks Required: none
 Test: none (Data Processing action) 
@@ -210,10 +216,26 @@ Marks Required: 2
 Test: Computer + Intuition [Data Processing] v. Willpower + [[Matrix Attributes#Sleaze|Sleaze]] 
 You find the physical location of a device or persona in the Matrix. After succeeding with this action, you know the target’s location for as long as you have at least one mark on the target. This doesn’t work on hosts because they generally have no physical location, or IC programs because they are confined to their hosts.
 
+##### TRACKBACK (SPECIAL ACTION)
+Marks Required: Owner
+Test: Extended Computer + Intuition [Data Processing]
+(special, 30 minutes) Test
+This test is only possible on grids, not inside a host. The datastreams that connect marks to their owners are barely visible wisps of information. Calibrating your
+filters to see them and not the billions of overlapping datastreams is a painstakingly laborious task. Once a mark has been detected on a device (see Matrix Percep-
+tion, p. 241, SR5), that device’s owner can try to follow the datastream back the mark’s owner. The number of hits required is equal to 10 + the Sleaze rating of the
+persona who marked the device. If the Sleaze rating changes during the search, the number of hits required changes as well. If the persona that placed the mark is
+running silent, the trail will end in its vicinity, effectively letting the tracker know that a silent icon is nearby.
+
 ##### WATCHDOG (COMPLEX ACTION) 
 Marks required: None 
 Test: Electronic Warfare + Logic [Sleaze] v. Logic + Firewall 
 Target must be a persona or device. If successful, place one mark on the target. The user is now aware of the Matrix actions the target is going to use before they use them, and they may attempt to stop them. A Watchdog mark allows the hacker to use Haywire or Popup as Interrupt Actions (for –10 initiative) or Squelch as an Interrupt Action (for –5 initiative) against the target with the Watchdog mark. This ability lasts as long as the target is marked by the user.
+
+
+
+
+
+
 
 
 
