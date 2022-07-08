@@ -1,4 +1,4 @@
-[[Combat!]]
+[[Attack And Defense]]
 
 Step 1: Declare
 - attacker declares an attack as part of the action phase

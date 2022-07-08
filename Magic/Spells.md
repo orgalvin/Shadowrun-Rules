@@ -122,7 +122,7 @@ This spell allows the subject to analyze the purpose and operation of a device o
 (ACTIVE, DIRECTIONAL)
 Type: P Range: T Duration: S Drain: F – 3
 
-This spell allows the subject to analyze the purpose of a magical object (e.g., foci, alchemical preparations, magical lodges, active rituals). Treat the net hits from the Spellcasting Test as hits on the Assensing Table (p. 313), except the subject isn’t required to be perceiving astrally.
+This spell allows the subject to analyze the purpose of a magical object (e.g., foci, alchemical preparations, magical lodges, active rituals). Treat the net hits from the Spellcasting Test as hits on the [[Assensing Table.png]], except the subject isn’t required to be perceiving astrally.
 
 ##### ANALYZE TRUTH
 (ACTIVE, DIRECTIONAL)

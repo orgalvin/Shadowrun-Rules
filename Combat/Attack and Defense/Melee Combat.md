@@ -1,4 +1,4 @@
-[[Combat!]]
+[[Attack And Defense]]
 
 Basic attacks are done with Combat Skill + Agility[Accuracy] versus the defender's Reaction + Intution.
 - net hits are added to the attacks DV

@@ -2,7 +2,10 @@
 
 Files:
 [[Spells]]
+[[Summoning & Spirits]]
 [[Rituals]]
+[[The Astral World]]
+[[Mana Barriers]]
 ```toc
 ```
 ### Force
