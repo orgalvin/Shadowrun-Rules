@@ -23,6 +23,36 @@ Sneak in underneath, get the file and jump out the window. Car chase. Get to Cra
 ## 20790924
 Get paid
 
+## 20790926
+Spindra gets called to meet Recluse job coming up 5 days out
+
+## 20790927
+Spindra tells group about job with Recluse. A rando named Ivan asks us for data chip. One of Spindra's drones follows Ivan to a suburban home.
+Max looks for member of Nightcrawler to beat up for information.
+Gyoubu goes to buy drugs from Nightcrawler to learn more with Spindra supporting. 1000 nuyen per head worked out with Grimwald (Head of Nightprowlers)
+
+## 20790928
+Ivan goes to work to a building and disappears in the lobby (at least from a Matrix Perception perspective)
+NightCrawlers coming round at 5.
+Drone used to kill dwarf woman ("Crack" - Drug dealer).
+
+## 20790929
+Goose sneaks gets a copy of the keycard. Gyoubu meets with Ba-chan, who says emphatically that there is no leak within the Inagawakai.
+
+## 20790929
+Goose sneaks gets a copy of the keycard. Gyoubu meets with Ba-chan, who says emphatically that there is no leak within the Inagawakai.
+
+## 20790930
+Meet Thorn. Leak within Inagawakai? Spindra bails Goose out.
+
+## 20791001
+Spider time. Go to Glow City. Outside of society hangs out there. Tales of mutants. Glowing bones. Feeling of fear within city. 
+
+
+
+sneak into the lobby. business peolple, cafes and stuff. cameras, but no visible security guards.
+
+one elevator
 
 
 
