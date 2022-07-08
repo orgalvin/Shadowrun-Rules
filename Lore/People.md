@@ -19,9 +19,18 @@ Old balding man. Keeps a work bag with him. Work coveralls. Leather jacket. Medi
 # Seattle
 ## Mayor Finch
 
-# Redmond
+# Friends and crew
 ## Crash
 Crash has a handlebar mustache and a cowboy hat.
 
 ## Dr. Zane
 Dr. Zane's is your local clinic, and the man himself has patched you up more often than a troll walks into a door frame. He's a good guy with tight lips, and he possesses what some call a 'recklessly loose' policy for questionable prescriptions.
+
+## Recluse
+Spindra's contact
+
+## Ba-san
+Gyoubu's contact
+
+## Diane McGruff
+Goose's contact
